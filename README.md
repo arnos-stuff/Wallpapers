@@ -1,3 +1,9 @@
 # Wallpapers
 
-Find them [on Imgur for easier CSS imports](https://imgur.com/a/pJoipxL)
+Get them from anywhere using JSDelivr:
+
+```css
+
+@import url(https://cdn.jsdelivr.net/gh/arnos-stuff/Wallpapers@latest/topography-cyan-purple-pink.png)
+
+```
